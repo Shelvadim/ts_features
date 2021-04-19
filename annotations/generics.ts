@@ -53,7 +53,7 @@ printAnything<string>(['a', 'b', 'c']);
 
 // generic constraints
 
-class Car {
+class Car0 {
   print() {
     console.log('I am a car');
   }
